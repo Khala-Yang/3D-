@@ -1,0 +1,31 @@
+## 材料准备
+
+| 材料         | |  数量     | 链接 |
+| ------------ | :------- | ---- | ---- |
+| 密封收纳盒   4L | <img src="./picture/收纳盒.png" alt="收纳盒" style="zoom:25%;" /> | 1 |[日本家用防虫防潮大号4L密封罐面粉桶五谷杂粮密封收纳盒米桶米缸](https://m.tb.cn/h.fYsICUX)|
+| 气动快插头    M6 | <img src="./picture/快接头.jpg" alt="快插头" style="zoom:6%;" /> | 2 | [3D打印机配件气动快速插头远程送料管快接头1.75/3.0挤出机快接头](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.24ad2e8dDTNr03&id=610569261201&_u=5d8i0fp68f6) |
+| 送料管       | <img src="./picture/送料管.jpg" alt="送料管" style="zoom:5%;" /> |  长度按需    |[3D打印机配件 铁氟龙管 远程挤出喷头送料管导料管 四氟管 PTFE管](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.24ad2e8dDTNr03&id=613273402221&_u=5d8i0fp7a60)|
+| 608轴承 | <img src="./picture/小轴承.png" alt="4" style="zoom:25%;" /> | 4 |[鲁泰小轴承](https://m.tb.cn/h.f1pJw1m)|
+| 干燥剂 | <img src="./picture/干燥剂.png" alt="干燥剂" style="zoom:15%;" /> | 1 |[小包收纳箱干燥剂行李箱防潮剂防霉包除湿剂吸湿](https://m.tb.cn/h.fX9g7Fe)|
+| 温湿度计[可选] | ![温湿度计](./picture/温湿度计.jpg) | 1 |[小米米家蓝牙温湿度计2](https://m.tb.cn/h.fYHgNsa)|
+
+以上材料除了尺寸合适的收纳盒不太好找外，其他可以自己挑便宜的买，本人是因为还有别的材料要买，一起凑运费。
+
+## 安装
+
+首先，如图所示，取下盒子上的小盖板
+
+<img src="./picture/取下盖板.jpg" alt="取下盖板" style="zoom: 20%;" />
+
+接着用手钻...宿舍怎么会有手钻啊？摔！
+
+<img src="picture/坑爹呢.jpeg" alt="坑爹呢" style="zoom:25%;" />
+
+但怎么可能难的倒我[doge]
+
+在如图所示位置，先用尖头螺丝钻孔，然后更换螺丝从小到大一点一点扩开。
+
+<img src="picture/打孔.jpg" alt="打孔" style="zoom: 25%;" />
+
+注意打孔打在红点标注的位置，不要像我一样打在正中间。料穿过孔应该像这样
+
